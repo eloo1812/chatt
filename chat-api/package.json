@@ -1,0 +1,29 @@
+{
+  "name": "chat-api",
+  "version": "1.0.0",
+  "description": "chat pt 2",
+  "main": "index.js",
+  "bin": {
+    "chat-api": "bin/server.js"
+  },
+  "scripts": {
+    "start": "node ./bin/server.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloo1812/chatAPI.git"
+  },
+  "keywords": [
+    "api",
+    "mongo",
+    "chat",
+    "info"
+  ],
+  "author": "Eloísa Sortica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloo1812/chatAPI/issues"
+  },
+  "homepage": "https://github.com/eloo1812/chatAPI#readme"
+}
